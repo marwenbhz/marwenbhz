@@ -16,7 +16,7 @@
 <h4> 📫 How to reach me ... </h4>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/marouane-ben-hriz/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Benjamin%20Lo-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/marouane-ben-hriz/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Marwen%20Ben Hriz-blue?style=flat-square&logo=linkedin"></a>
 </p>
 
 <!--
