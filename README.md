@@ -1,6 +1,13 @@
 ### Hi I'm Marwen. 👋
 
-<h5> 👨🏻‍💻 About Me </h5>
+<h5> 👨🏻‍💻 About Me ... </h5>
+
+<h5> 🛠 Tech Stack ... </h5>
+
+<h5> 💬 Ask me about ... </h5>
+
+<h5> 📫 How to reach me ... </h5>
+
 
 [![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marwenbhz&show_icons=true)](https://github.com/marwenbhz)
 
