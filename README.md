@@ -2,6 +2,11 @@
 
 <h5> 👨🏻‍💻 About Me ... </h5>
 
+- 🎓 &nbsp; Studied Software Engineering at [Private High School of Engineering and Technologies](https://esprit.tn/).
+- 💼 &nbsp; Working as a remote software engineer at [HEXABASE Inc](https://www.hexabase.com/) on [HEXABASE].
+- 🤔 &nbsp; Exploring new technologies and developing software solutions..
+- 🌱 &nbsp; Learning more about Cloud Architecture on the side.
+
 <h5> 🛠 Tech Stack ... </h5>
 
 <h5> 💬 Ask me about ... </h5>
