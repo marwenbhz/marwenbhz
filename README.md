@@ -1,5 +1,4 @@
-### Hi there 👋
-<h2> Hi, I'm Marwen.</h2>
+### Hi I'm Marwen. 👋
 
 <!--
 **marwenbhz/marwenbhz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
