@@ -2,6 +2,8 @@
 
 <h5> 👨🏻‍💻 About Me </h5>
 
+[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marwenbhz&show_icons=true)](https://github.com/marwenbhz)
+
 <!--
 **marwenbhz/marwenbhz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
