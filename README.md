@@ -11,7 +11,7 @@
 
 <h4> 💬 Ask me about ... </h4>
 
-[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marwenbhz&show_icons=true)](https://github.com/marwenbhz)
+[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marwenbhz&show_icons=true&theme=react)](https://github.com/marwenbhz)
 
 <h4> 📫 How to reach me ... </h4>
 
