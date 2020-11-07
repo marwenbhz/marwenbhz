@@ -19,6 +19,10 @@
 <a href="https://www.linkedin.com/in/marouane-ben-hriz/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Marwen%20Ben Hriz-blue?style=flat-square&logo=linkedin"></a>
 </p>
 
+### My GitHub trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=benji011)
+
 <!--
 **marwenbhz/marwenbhz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
