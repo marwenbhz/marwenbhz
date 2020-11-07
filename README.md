@@ -21,7 +21,7 @@
 
 ### My GitHub trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=benji011)
+![Trophies](https://github-profile-trophy.vercel.app/?username=marwenbhz)
 
 <!--
 **marwenbhz/marwenbhz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
