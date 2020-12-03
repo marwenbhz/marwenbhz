@@ -6,8 +6,17 @@
 - 💼 &nbsp; Working as a remote software engineer at [HEXABASE Inc](https://www.hexabase.com/) on [HEXABASE].
 - 🤔 &nbsp; Exploring new technologies and developing software solutions..
 - 🌱 &nbsp; Learning more about Cloud Architecture on the side.
+- 💻 &nbsp; Maintained and enhanced microservice-based platform for company's core product "Hexabase" in Golang and JS.
+- 💻 &nbsp; Responsible for maintaining several k8s clusters in GCP and Azure, including DB administration (MongoDB, MySQL, Neo4J, Elasticsearch, Redis, ArangoDB) and cluster troubleshooting, as well as CI/CD.
+- 💻 &nbsp; Migrated from custom-build CI/CD tools to Jenkins and Spinnaker to automate build and deployment processes.
+- 💻 &nbsp; Installed, configured and managed monitoring and logging tools such as Prometheus, Loki and EFK stack for better alerting, resource monitoring and troubleshooting in k8s clusters.
 
 <h4> 🛠 Tech Stack ... </h4>
+
+- 💻 &nbsp; Python | Django | Django REST Framework
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS | VueJS | NextJS
+- 🛢 &nbsp; MySQL | NoSQL
+- 🔧 &nbsp; Git | Markdown
 
 <h4> 💬 Ask me about ... </h4>
 
