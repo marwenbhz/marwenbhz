@@ -22,15 +22,15 @@
 
 [![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marwenbhz&show_icons=true&theme=react)](https://github.com/marwenbhz)
 
+<h4> 💻 My GitHub trophies </h4>
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=marwenbhz)
+
 <h4> 📫 How to reach me ... </h4>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/marouane-ben-hriz/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Marwen%20Ben Hriz-blue?style=flat-square&logo=linkedin"></a>
 </p>
-
-### My GitHub trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=marwenbhz)
 
 <!--
 **marwenbhz/marwenbhz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
