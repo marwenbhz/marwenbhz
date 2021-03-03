@@ -26,6 +26,8 @@
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=marwenbhz)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marwenbhz&layout=compact&card_width=445)](https://github.com/marwenbhz/github-readme-stats)
+
 <h4> 📫 How to reach me ... </h4>
 
 <p align="center">
